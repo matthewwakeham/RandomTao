@@ -15,3 +15,4 @@ file = path + '/' + files[index]
 with open(file) as f:
     contents = f.read()
     print(contents)
+    print("end")
