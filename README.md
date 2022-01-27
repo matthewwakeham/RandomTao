@@ -32,7 +32,7 @@ The possibility of memory issues which are unresolved exists.
 
 ## Authors
 
-Matthew Wakeham | Instagram: @matthewwakeham
+Matthew Wakeham | IG: @matthewwakeham
 
 ## Version History
 
