@@ -1,4 +1,4 @@
-# Random Tao (Tao Te Ching by Lao tzu)
+# Random Tao (Tao Te Ching by Lao Tzu)
 
 Random Tao is a Python script which outputs a randomly selected chapter from the Tao Te Ching.
 
