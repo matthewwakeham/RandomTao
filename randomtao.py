@@ -3,6 +3,7 @@ import random
 
 print("Random Tao")
 print("Tao Te Ching by Lao Tzu")
+print("Selecting a chapter...")
 print(" ")
 
 path = '/Users/matthewwakeham/PycharmProjects/randomtao/taoteching/'
