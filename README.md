@@ -13,7 +13,7 @@ with a random chapter from the Tao. Such selections may be used for education or
 
 ### Dependencies
 
-* Linux.
+* Linux
 * Python 3.9 and up
 
 ### Installing
