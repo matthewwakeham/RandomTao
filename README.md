@@ -13,8 +13,7 @@ with a random chapter from the Tao. Such selections may be used for education or
 
 ### Dependencies
 
-* Linux
-* Python 3.9 and up
+* Python 3.9
 
 ### Installing
 
@@ -32,7 +31,7 @@ The possibility of memory issues which are unresolved exists.
 
 ## Authors
 
-Matthew Wakeham | IG: @matthewwakeham
+Matthew Wakeham
 
 ## Version History
 
